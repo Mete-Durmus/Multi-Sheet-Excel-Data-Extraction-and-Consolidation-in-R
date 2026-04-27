@@ -113,7 +113,7 @@ path <- here(folder_name) #folder path including excel files
 
 #file_pattern names for sheet extraction
 #These names used in excel file names and are the only pattern
-file_pattern <- c("burcu", "irem", "cansu", "can", "ekin", "ogun", "senem", "tugce")
+file_pattern <- c("c1", "c2", "c3", "c4", "c5", "c6", "c7", "c8")
 
 
 #file paths and file_pattern names as name, sheet names inside the path as value
